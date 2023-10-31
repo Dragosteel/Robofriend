@@ -1,2 +1,2 @@
-# Robofriend
+# Robofriends
 Course Challenge
