@@ -30,7 +30,7 @@ class App extends Component {
 
         if (this.state.robots.length === 0) {
             return (
-                <div class="v-mid mr-auto ml-auto lds-roller">
+                <div className="v-mid mr-auto ml-auto lds-roller">
                     <div></div><div></div>
                     <div></div><div></div>
                     <div></div><div></div>
