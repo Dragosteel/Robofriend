@@ -12,6 +12,11 @@ h1 {
     color: rgb(176, 203, 230);
 }
 
+.cardList {
+    height: 700px;
+    overflow-y: auto;
+}
+
 .lds-roller {
     width: 80px;
     height: 80px;

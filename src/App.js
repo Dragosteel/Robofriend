@@ -45,7 +45,9 @@ class App extends Component {
                         <SearchBox searchChange={this.onSearchChange} />
                         <hr></hr>
                     </div>
-                    <CardList robots={filteredRobots} />
+                    <div className='cardList'>
+                        <CardList robots={filteredRobots} />
+                    </div>
                 </div>
             );
         }
