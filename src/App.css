@@ -13,7 +13,7 @@ h1 {
 }
 
 .cardList {
-    height: 700px;
+    height: calc(94vh - 180px);
     overflow-y: auto;
 }
 
