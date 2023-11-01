@@ -18,8 +18,10 @@ h1 {
 }
 
 .lds-roller {
+    display: flex;
+    align-items: center;
     width: 80px;
-    height: 80px;
+    height: 95vh;
 }
 
 .lds-roller div {
